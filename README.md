@@ -4,7 +4,7 @@ Todays assignment is to use the Sveriges Radio API to fetch information about th
 
 ## How to complete this assignment
 
-### Part 1
+## Part 1
 
 Before you go any further, take a moment to look at an example API response from Sveriges Radio. Here you can find a list of all 55 stations, and a url to each station's live stream: http://api.sr.se/api/v2/channels?format=json&size=100
 
@@ -20,7 +20,9 @@ The Sveriges Radio API seems to work without any sort of authentication, so that
 
 Check out the [documentation](https://www.w3schools.com/tags/tag_audio.asp) for the `<audio>` tag. The format for the stream is mp3, so you'll need to use a `<source>` with the "type" of "audio/mpeg".
 
-### Part 2
+---
+
+## Part 2
 
 #### For FWM - OWASP
 
