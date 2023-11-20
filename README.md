@@ -10,7 +10,7 @@ Before you go any further, take a moment to look at an example API response from
 
 Your task is to use `fetch()` to get this JSON from the Sveriges Radio API and render a list of channels with playable streams on your page. You should use at least the station name, image, and colour keys in the JSON to create a layout which looks something like this:
 
-![Wireframe](https://github.com/davidshore/chas_radio-player/blob/master/wireframe.png)
+![Wireframe](https://github.com/davidshore/chas_radioplayer/blob/main/wireframe.png?raw=true)
 
 #### API Key.
 
