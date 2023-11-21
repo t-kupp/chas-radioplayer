@@ -54,7 +54,7 @@ Give answers in swedish to the following questions in a text-file in your repo:
 
 4. Explain the purpose of landmarks in creating accessible web content. How do landmarks aid in navigation for users of assistive technologies, and can you provide examples of commonly used landmark elements in HTML?
 
-5. Describe the significance of proper form labeling as outlined in accessibility guidelines. Why is it important to label form elements, and what strategies can developers implement to ensure effective labeling for improved accessibility?
+5. Describe the significance of proper form labeling. Why is it important to label form elements, and what strategies can developers implement to ensure effective labeling for improved accessibility?
 
 ## GitHub
 
