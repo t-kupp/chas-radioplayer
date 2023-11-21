@@ -32,7 +32,7 @@ Give answers in swedish to the following questions in a text-file in your repo:
 
 1. What is OWASP and what is its primary mission as described in the article?
 
-1. Explain the concept of "Injection" as outlined in the OWASP Top 10. Provide an example of how an injection attack could compromise a web application's security.
+1. Explain the concept of "Injection". Provide an example of how an injection attack could compromise a web application's security.
 
 1. Explain two strategies to prevent Broken Authentication vulnerabilities.
 
