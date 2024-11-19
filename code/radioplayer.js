@@ -11,16 +11,12 @@ const channelsWrapper = document.querySelector("#channels-wrapper");
 async function getData() {
   const response = await fetch("http://api.sr.se/api/v2/channels?format=json&size=100");
   const data = await response.json();
-  console.log(data);
   displayData(data);
 }
 getData();
 
 function displayData(data) {
-  const slicedData = data.channels.slice(0, 10);
-  console.log(slicedData);
-
-  slicedData.forEach((channel) => {
+  data.channels.forEach((channel) => {
     const container = document.createElement("div");
     container.classList.add("channel-container");
     channelsWrapper.appendChild(container);
